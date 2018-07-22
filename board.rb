@@ -1,1 +1,3 @@
-board
+board = "new variable"
+
+board = [" "," "," "," "," "," "," "," "," "]
