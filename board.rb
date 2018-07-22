@@ -1,0 +1,1 @@
+board=array.new
