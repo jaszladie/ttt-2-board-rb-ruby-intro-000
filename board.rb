@@ -1,3 +1,3 @@
-board = array.new
+board = []
 
 board = [" "," "," "," "," "," "," "," "," "]
