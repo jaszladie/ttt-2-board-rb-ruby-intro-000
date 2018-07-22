@@ -1,3 +1,3 @@
-board = "Tic Tac Toe"
+board = array.new
 
 board = [" "," "," "," "," "," "," "," "," "]
