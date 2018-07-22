@@ -1,3 +1,3 @@
-board = "new variable"
+board = array.new
 
 board = [" "," "," "," "," "," "," "," "," "]
